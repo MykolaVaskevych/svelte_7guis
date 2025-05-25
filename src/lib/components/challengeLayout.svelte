@@ -1,6 +1,6 @@
 <script lang="ts">
 
-    let {children, title, challenge, desription, image} = $props();
+    let {children, title, challenge, description, image} = $props();
 
 </script>
 
@@ -17,7 +17,7 @@
             {#if image}
                 <img src={image} alt="example" class="mx-auto">            
             {/if}
-            <p class="text-base leading-relaxed">{desription}</p>
+            <p class="text-base leading-relaxed">{description}</p>
         </div>
     </div>
 </div>
