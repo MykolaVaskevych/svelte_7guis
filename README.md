@@ -1,3 +1,8 @@
+# 7guis tasks for svelteKit 
+
+based on  https://eugenkiss.github.io/7guis/tasks
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
