@@ -1,7 +1,6 @@
-# 7guis tasks for svelteKit 
+# 7guis tasks for svelteKit
 
-based on  https://eugenkiss.github.io/7guis/tasks
-
+based on https://eugenkiss.github.io/7guis/tasks
 
 # sv
 
@@ -41,5 +40,3 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-
-

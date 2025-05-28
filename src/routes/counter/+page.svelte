@@ -7,8 +7,6 @@
 	}
 </script>
 
-
-
 <ChallengeLayout
 	title="#1 Counter"
 	challenge="Challenge: Understanding the basic ideas of a language/toolkit."
