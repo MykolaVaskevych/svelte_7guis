@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  svelte-7guis:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    container_name: svelte-7guis-app
