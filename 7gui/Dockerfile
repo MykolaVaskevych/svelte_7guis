@@ -1,7 +1,7 @@
 FROM oven/bun
 
 WORKDIR /app
-COPY 7gui/package.json package.json
+COPY package.json package.json
 RUN bun install
 
 COPY . .
